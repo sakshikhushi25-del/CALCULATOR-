@@ -43,7 +43,7 @@ This project performs basic arithmetic operations like addition, subtraction, mu
 
 ## 📸 Screenshot
 
-![Calculator Screenshot](<img width="1148" height="831" alt="calculator-app" src="https://github.com/user-attachments/assets/3c077431-170c-48bd-8c91-9d8ed0c9b137" />
+![Calculator Screenshot](<img width="1148" height="831" alt="calculator-app" src="https://github.com/user-attachments/assets/29f55d53-ea7b-4cf8-9a5d-666967f8fa88" />
 )
 
 ---
